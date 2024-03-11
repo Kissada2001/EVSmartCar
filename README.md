@@ -1,3 +1,5 @@
+demo : [ev-smart-car.netlify.app](https://ev-smart-car.netlify.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
